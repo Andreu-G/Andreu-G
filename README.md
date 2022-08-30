@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋, my name is Andreu.
+[![Generic badge](https://img.shields.io/badge/F-iverr-green.svg)](https://fiverr.com/ithirul) [![Generic badge](https://img.shields.io/badge/G-Mail-red.svg)](mailto:andreugonzalezm@gmail.com) [![Generic badge](https://img.shields.io/badge/L-inkedIn-blue.svg)](https://linkedin.com/in/andreugm) [![Generic badge](https://img.shields.io/badge/A-rtStation-orange.svg)](https://artstation.com/ithirul)<hr>
+For several years I have worked and expanded my knowledge in the field of 3D modeling, with all that it entails:
 
-<!--
-**Andreu-G/Andreu-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  - Modeling
+>  - UVs
+>  - Texturing
+>  - Animation
+>  - Lighting
+>  - Rendering
+>  - Game Engines
 
-Here are some ideas to get you started:
+Now I've made the leap to web application programming and design:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>  - HTML
+>  - CSS
+>  - JS
+>  - API REST
+>  - Node.JS
+>  - Socket.IO
+>  - MySQL
+>  - MongoDB
+
+and I'm still developing in that sector.
