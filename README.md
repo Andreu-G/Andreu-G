@@ -25,11 +25,11 @@ and I'm still developing in that sector.
 
 ### Check my repos!:
 
-[**DragonRain**](https://dragonrain.herokuapp.com) - A sample website for an up-coming (not) MMORPG. **(HTML + CSS + JS + Node.JS)**
+[**DragonRain**](https://dragonrain.herokuapp.com) - A sample website for an up-coming (not) MMORPG. **(HTML + (CSS + Bootstrap) + JS + Node.JS)**
 
-[**PokéSearcher**](https://andreu-g.github.io/PokeSearcher/) - Simple website that retrieves pokémon info from an API. **(HTML + CSS + JS + API calls)**
+[**PokéSearcher**](https://andreu-g.github.io/PokeSearcher/) - Simple website that retrieves pokémon info from an API. **(HTML + (CSS + Bootstrap) + JS + API calls)**
 
-[**PersonCRUD**](https://personcrud-ag.herokuapp.com) - A web application that has basic CRUD functionality - create, read, update and delete people from a MongoDB database. **(HTML + CSS + JS + Node.JS + MongoDB + API Calls)**
+[**PersonCRUD**](https://personcrud-ag.herokuapp.com) - A web application that has basic CRUD functionality - create, read, update and delete people from a MongoDB database. **(HTML + (CSS + Bootstrap) + JS + Node.JS + MongoDB + API Calls)**
 
-[**Chatterbox**](https://chatterbox-ag.herokuapp.com) - Pick a name, a color, and talk with anyone that joins you in the chat. You can test it out with multiple browsers. **(HTML + CSSS + JS + Node.JS + Socket.IO)**
+[**Chatterbox**](https://chatterbox-ag.herokuapp.com) - Pick a name, a color, and talk with anyone that joins you in the chat. You can test it out with multiple browsers. **(HTML + (CSS + Bootstrap) + JS + Node.JS + Socket.IO)**
 
