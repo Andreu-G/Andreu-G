@@ -15,6 +15,7 @@ Now I've made the leap to web application programming and design:
 >  - HTML
 >  - CSS
 >  - JS
+>  - VUE.JS
 >  - API REST
 >  - Node.JS
 >  - Socket.IO
@@ -33,3 +34,4 @@ and I'm still developing in that sector.
 
 [**Chatterbox**](https://chatterbox-ag.herokuapp.com) - Pick a name, a color, and talk with anyone that joins you in the chat. You can test it out with multiple browsers. **(HTML + (CSS + Bootstrap) + JS + Node.JS + Socket.IO)**
 
+[**HealthMeter**](https://andreu-g.github.io/HealthMeter/) - Insert your age, weight and height, and get information about your health! **(HTML + (CSS + Bootstrap) + (JS + VUE.JS))** - **NOTE: This is NOT a medical app. It was created for academic purposes only. DO NOT TRUST THESE RESULTS.**
